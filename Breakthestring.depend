@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1597398520 source:e:\ltts\programming in c and unit testing\programs\breakthestring\main.c
+	"test_breakthestring.h"
+
+1597398324 source:e:\ltts\programming in c and unit testing\programs\breakthestring\src\breakthestring.c
+	"breakthestring.h"
+
+1597398770 e:\ltts\programming in c and unit testing\programs\breakthestring\inc\breakthestring.h
+
+1597241323 source:e:\ltts\programming in c and unit testing\programs\breakthestring\test\test_breakthestring.c
+	"unity.h"
+	"breakthestring.h"
+
+1597052165 e:\ltts\programming in c and unit testing\programs\breakthestring\unity\unity.h
+	"unity_internals.h"
+
+1597052165 e:\ltts\programming in c and unit testing\programs\breakthestring\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597052165 source:e:\ltts\programming in c and unit testing\programs\breakthestring\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597168981 e:\ltts\programming in c and unit testing\programs\breakthestring\test\test_breakthestring.h
+
